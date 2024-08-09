@@ -39,7 +39,7 @@ function Home() {
           <div>
             <p>Nome:  <span> {user.nome} </span>  </p>
             <p>Idade: <span> {user.idade}  </span>  </p>
-            <p>Email: <span> {user.email} </span>  </p>
+            <p>Emails: <span> {user.email} </span>  </p>
           </div>
           <button>
             <img src={Trash} />
